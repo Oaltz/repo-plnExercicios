@@ -38,6 +38,38 @@ Todos os exercícios foram desenvolvidos no **Google Colab**, com apoio de bibli
 - Identificação de padrões em grandes volumes de dados.
 - Introdução à clusterização e tópicos emergentes.
 
+### Aula 10 - Análise de Sentimentos
+- Classificação de polaridade em textos.
+- Uso de léxicos de sentimentos e visualizações para interpretação de emoções.
+- Introdução aos conceitos de sentimento no processamento de linguagem natural.
+
+### Aula 11 - Machine Learning aplicado ao PLN
+- Aplicação de modelos de classificação em textos.
+- Validação cruzada e uso de métricas de desempenho.
+- Integração entre aprendizado de máquina e PLN.
+
+### Aula 12 - Redes Neurais
+- Introdução às redes neurais artificiais.
+- Fundamentos de deep learning aplicados ao PLN.
+- Uso de bibliotecas como Keras e TensorFlow.
+
+---
+
+### Projeto 1 - Construção de Corpus
+- Coleta, limpeza e análise exploratória de dados textuais.
+- Organização de um corpus para futuras análises.
+- Base para projetos mais robustos de PLN.
+
+### Projeto 2 - Análise Estatística de Textos
+- Cálculo de frequência de palavras e análise quantitativa.
+- Aplicação de medidas estatísticas como média, moda e desvio padrão.
+- Integração entre estatística e dados textuais.
+
+### Projeto 3 - Análise de Relevância de Palavras
+- Identificação de palavras-chave com a técnica de TF-IDF.
+- Comparação da relevância de termos em diferentes documentos.
+- Visualização de termos importantes para interpretação textual.
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
